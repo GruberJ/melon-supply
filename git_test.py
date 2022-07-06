@@ -1,3 +1,1 @@
-#original master file
-
-#this line should only be in new branch
+#original master file (this line only in master file)
